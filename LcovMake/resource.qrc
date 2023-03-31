@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/html">
+        <file>resource/单元测试LCOV 文件操作/index.html</file>
+    </qresource>
+</RCC>

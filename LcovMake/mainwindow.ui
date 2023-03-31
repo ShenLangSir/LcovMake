@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1234</width>
+    <height>892</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>1171</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'.AppleSystemUIFont'; font-size:13pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; color:#bec0c2;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot; color:#347cb4;&quot;&gt;&amp;lt;tr&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;td&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;class=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;coverFile&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&amp;lt;a&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;href=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;name&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/td&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;td&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;class=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;coverBar&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;align=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;center&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;table&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;border=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;cellspacing=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;cellpadding=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;class=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;coverBarOutline&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;src=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;pngpng&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;width=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;speedZ&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;height=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;10&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;alt=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;speed%&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;src=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;snow.png&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;width=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;XspeedZ&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;height=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;10&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;alt=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;speed%&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;td&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;class=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;coverPerHi&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;speed&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#8a602c;&quot;&gt;&amp;amp;nbsp;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;%&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;td&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;class=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;coverNumHi&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;line1&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;/&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;line2&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;td&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;class=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;coverPerMed&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;funcSpeed&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#8a602c;&quot;&gt;&amp;amp;nbsp;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;%&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;td&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;class=&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#686c66;&quot;&gt;&amp;quot;coverNumMed&amp;quot;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;func1&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;/&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced';&quot;&gt;func2&lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#bec0c2;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot; font-family:'.AppleSystemUIFontMonospaced'; color:#347cb4;&quot;&gt;&amp;lt;/tr&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>660</y>
+      <width>221</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>导出完整文件</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textEdit_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>680</y>
+      <width>261</width>
+      <height>131</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textEdit_3">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>340</y>
+      <width>1181</width>
+      <height>301</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>750</y>
+      <width>40</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEditPath">
+    <property name="geometry">
+     <rect>
+      <x>690</x>
+      <y>740</y>
+      <width>481</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>740</y>
+      <width>40</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>路径</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>690</y>
+      <width>350</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>最小值</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEditMin">
+       <property name="text">
+        <string>81</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_2">
+       <property name="text">
+        <string>最大值</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEditMax">
+       <property name="text">
+        <string>100</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1234</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
